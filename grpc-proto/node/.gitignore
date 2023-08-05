@@ -1,0 +1,4 @@
+node_modules
+db.sqlite
+shadow-realm
+js-proto-*.tgz
